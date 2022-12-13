@@ -1,4 +1,6 @@
-# Colloquy
+# Rhetoric
+
+Rhetoric is a fork of [Colloquy](github.com/colloquy/), an advanced IRC, SILC, and ICB client for macOS and iOS.
 
 ## Dependencies
 
